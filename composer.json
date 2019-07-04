@@ -1,0 +1,25 @@
+{
+    "name": "bts-world-glitch/cheats-how-to-get-free-gems-bts-world",
+    "description": "[Glitch] BTS World cheats - how to get free gems BTS World for ios android 2019 update! How to get more gold, blossoms, wings with BTS World Mod APK.",
+    "homepage": "https://github.com/nzus9988/btsworldarmy/",
+	"keywords": ["bts world cheats","bts world hack","bts world free gems","bts-world-glitch"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Click to open bts world cheat",
+            "homepage": "https://sketchfab.com/bts-world-hack-mod-apk",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/dom-crawler": "^3.3",
+        "symfony/css-selector": "^3.3"
+    },
+    "minimum-stability": "dev"
+}
